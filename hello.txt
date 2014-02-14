@@ -2,3 +2,4 @@ hello,world!
 hello,git!
 add from localmaster!
 push to master from local master!
+git commit --amend test:before
