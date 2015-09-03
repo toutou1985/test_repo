@@ -8,3 +8,9 @@ commit 2
 commit 3
 hello 555
 helllo master
+commit 4
+commit 5
+commit 6
+commit 4
+modify hello
+modify hello.txt
