@@ -1,1 +1,2 @@
 hello6.txt
+git amend test
