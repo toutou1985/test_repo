@@ -22,3 +22,4 @@ hello, test [git branch]
 hello, test git branch --set-upstream-to
 add from github site
 add from local
+add from local2
