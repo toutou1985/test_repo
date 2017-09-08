@@ -18,3 +18,5 @@ hello, this year is 2017.
 hello, this is add at 20170908
 hello, add to track_to_master
 hello, add to 0908
+hello, test [git branch]
+hello, test git branch --set-upstream-to
